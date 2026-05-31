@@ -1,0 +1,4 @@
+.mypy_cache
+.env
+vertica-jdbc-25.3.0-0.jar
+Dockerfile

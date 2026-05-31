@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  pet-project:
+    build: .
+    ports:
+      - 8280:8280
+    volumes:
+      - ./src:/lessons
